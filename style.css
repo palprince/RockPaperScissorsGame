@@ -73,11 +73,11 @@ img {
 
 button {
   color: #fff;
-  background-color: red;
+  background-color: rgb(153,0,255);
   margin-top: 3rem;
   border-radius: 5rem;
   height: 40px;
-  width: 150px;
+  width: 170px;
   font-size: medium;
   border: 2px solid black;
 }
