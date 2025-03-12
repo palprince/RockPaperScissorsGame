@@ -69,11 +69,11 @@ btn.addEventListener("click", () => {
   if(currMode === "light") {
     currMode = "dark";
     document.querySelector("body").style.backgroundColor="black";
-    btn.innerText = "Change mode to Light";
+    btn.innerText = "Change Mode to Light";
   } else {
     currMode = "light";
     document.querySelector("body").style.backgroundColor="white";
-    btn.innerText = "Change mode to Dark";
+    btn.innerText = "Change Mode to Dark";
   }
   console.log(currMode);
 });
